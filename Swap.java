@@ -15,7 +15,7 @@ public class Swap {
 			}
 			a/=10;
 		}
-
+           System.out.println(max);
 	}
 
 }

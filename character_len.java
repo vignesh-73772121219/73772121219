@@ -8,7 +8,7 @@ public class Strimng {
 		for(String s1:a) 
 		{
 		if(s1.length()%2 == 0) {
-			System.out.println("even");
+			System.out.println("even :"+s1.length());
 		}
 		else {
 			System.out.println(s1.length());

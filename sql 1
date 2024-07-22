@@ -1,0 +1,26 @@
+--CREATE TABLE Emp_per_det(
+  --emp_name varchar,
+  --emp_id int,
+  --emp_address varchar,
+  --Designation varchar,
+  --per_phno int,
+  --Emergency_pn int,
+  --Department varchar);
+
+--Insert Into Emp_per_det(emp_name , emp_id , emp_address , Designation , per_phno , Emergency_pn,Department)
+--values
+--('Sai',001,'abc company','Manager',3456789,3456789,'IT'),
+--('Ravi',003,'abc company','proff',345645789,34566789,'IT'),
+--('Ram',002,'abc company','Staff',7896789,89434589,'CSE'),
+--('Gogul',004,'abc company','Lab incharge',3456789,3456789,'CSE'),
+--('sai',001,'abc company','Ass Proff',0987656789,09876589,'AIDS');
+
+--CREATE TABLE Emp_Sal_det(emp_id int ,HRA int,DA int ,TA int,Basic_pay int ,Department varchar);
+
+--Insert into Emp_Sal_det(emp_id  ,HRA ,DA  ,TA ,Basic_pay ,Department )
+--values 
+--(001,2000,1500,1500,2000,'IT'),
+--(003,3000,2000,2000,2500,'IT'),
+--(002,2500,1500,2550,2200,'CSE'),
+--(004,2000,1000,1000,2600,'CSE'),
+--(005,3000,1200,1550,3000,'AIDS');
